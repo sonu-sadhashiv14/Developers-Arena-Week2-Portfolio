@@ -117,3 +117,8 @@ The portfolio was tested in a web browser to check navigation links, hover effec
 ## Author
 
 Sonu HS
+## Technical Details
+
+The project uses HTML for the website structure and external CSS for styling and layout. Flexbox is used for navigation and layout alignment, while CSS selectors, spacing, colors, transitions, and media queries are used to improve the design and responsiveness.
+
+No complex algorithms or data structures are required for this static portfolio website. The project follows a simple structure where `index.html` provides the content, `style.css` controls presentation, `images/` stores image assets, and `screenshots/` contains visual documentation.
